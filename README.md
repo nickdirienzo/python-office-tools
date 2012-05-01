@@ -1,7 +1,7 @@
-office-xml-parser
+python-office-tools
 =================
 
 Introduction
 ------------
 
-This module started as an Microsoft Word DOCX parser at [Startup Weekend Rochester 2012](http://rochester.startupweekend.org/) as part of a set of tools for [GestaltBox](http://gestaltbox.com). However, I plan on continuing development for all Office document XMLs.
+This set of tools started as an Microsoft Office Word DOCX parser at [Startup Weekend Rochester 2012](http://rochester.startupweekend.org/). I am turning it into a full suite of tools for reading and writing Office documents.
